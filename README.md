@@ -22,3 +22,9 @@ In this section I am creating a table with 4 types of sports which I recommend t
 | volley ball | it give exercise to the body | 4 hrs |
 | swimming | it increases muscle strength | 3 hrs |
 | cricket | it's a fun game to enjoy | 4 hrs |
+*********
+# quotes of my favourie scientist:
+>Science is just pure empiricism, and by virtue of its method, it excludes metaphysics. – Steve Martin
+
+>Rockets are cool. There’s no getting around that. – Elon Musk
+*********
