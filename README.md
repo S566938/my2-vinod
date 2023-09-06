@@ -13,3 +13,12 @@ i have visited shimladurig my under gradyation with my **friends** and i have en
 * butter nan
 * kadai paneer
 [Mypic](MyStats.md)
+****
+In this section I am creating a table with 4 types of sports which I recommend to try in the below table.
+
+| Sport | Reason for recommendation | Hours required for a week |
+|-------|-------|------:|
+| chess | It increases concentration | 5 hrs |
+| volley ball | it give exercise to the body | 4 hrs |
+| swimming | it increases muscle strength | 3 hrs |
+| cricket | it's a fun game to enjoy | 4 hrs |
