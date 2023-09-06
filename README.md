@@ -12,3 +12,4 @@ i have visited shimladurig my under gradyation with my **friends** and i have en
 * chicken biryani
 * butter nan
 * kadai paneer
+[Mypic](MyStats.md)
