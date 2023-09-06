@@ -28,3 +28,13 @@ In this section I am creating a table with 4 types of sports which I recommend t
 
 >Rockets are cool. There’s no getting around that. – Elon Musk
 *********
+# code fencing
+> Comments in CSS - PHP <br>
+[answer dislayed in stackoverflow](https://stackoverflow.com/questions/69467087/how-to-comment-out-css-statement-with-inner-comment)
+
+```
+blahbla {  font-size: 20px !important;
+           line-height: 20px !important;   /* added in August 2021 */
+           font-family: Verdana !important; }
+```
+[snippet code](https://css-tricks.com/snippets/css/comments-in-css/)                     
